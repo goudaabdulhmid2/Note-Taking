@@ -1,0 +1,7 @@
+# prevent directory listing 
+
+Options -Indexes
+
+#echo error massege
+
+ErrorDocument 403 "YOU DON'T HAVE ACCESS"
